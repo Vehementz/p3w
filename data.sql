@@ -68,4 +68,4 @@ CREATE TABLE `news` (
 
 
 
- "picture_path": "schema-professionnel.svg"
+--  "picture_path": "schema-professionnel.svg"
